@@ -50,7 +50,7 @@ const UserSection = () => {
           <div className="">
             <img
               className="w-96"
-              src="../src/assets/agroimg.png"
+              src="https://github.com/debjitpurohit/Agri-Frontend-User/blob/master/src/assets/agroimg.png"
             />
             <h3 className=" login text-white text-left text-2xl font-bold  ">
               Welcome to AGRO-Life, where innovation meets agriculture. As
