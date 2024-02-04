@@ -65,7 +65,7 @@ const NavComponent=(props)=> {
   return (
     <Navbar fluid rounded className='w-full fixed z-40 top-0 left-0 shadow-xl  opacity-100 z-40 w-full top-0 left-0 border border-white bg-gradient-to-r from-fuchsia-500 via-red-600 to-orange-400'>
       <NavbarBrand href="/"  style={{textDecoration:"none"}} >
-        <img src="../src/assets/agrolife.jpg" className="mr-2 h-9 sm:h-9" alt="AgroChemicals" />
+        <img src="https://github.com/debjitpurohit/Agri-Frontend-User/blob/master/src/assets/agrolife.jpg" className="mr-2 h-9 sm:h-9" alt="AgroChemicals" />
         <span className="self-center whitespace-nowrap text-3xl font-semibold text-white login">{props.title}</span>
       </NavbarBrand>
       <div className="flex md:order-3">
