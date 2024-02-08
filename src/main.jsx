@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import {createContext} from "react"
-export const dealerserver = "https://agribackenddealer.onrender.com"
-export const userserver = "https://agribackenduser.onrender.com"
+export const dealerserver = "https://agribackenddealer.onrender.com/api/v1"
+export const userserver = "https://agribackenduser.onrender.com/api/v1"
 import { BrowserRouter } from "react-router-dom"
 import { Provider } from 'react-redux';
 import { store } from './redux/app/store';
